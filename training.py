@@ -1,5 +1,8 @@
+#As I'm a total newby to programming, I'm using <https://www.w3schools.com/python/python_strings_modify.asp> to introduce myself to the vast world of programming.
 """
-Well, I'm trying to learn python language, to use it to help in making useful applications.
+Well, 
+I'm trying to learn python language to help in the making 
+of useful applications.
 """
 x=1 #setting a value to the variable
 if 5 + x > 5: #conditional
