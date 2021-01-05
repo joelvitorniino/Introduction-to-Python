@@ -5,7 +5,7 @@ I'm trying to learn python language to help in the making
 of useful applications.
 """
 x=1 #setting a value to the variable
-if 5 + x > 5: #conditional
+if 5 + x < 5: #conditional
  print("First code") #Use indentation so that this function is inside the function above (if)
  
 greetings = ["Good Morning!", "Good Afternoon!", "Good Evening!"]
